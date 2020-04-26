@@ -77,4 +77,7 @@ void test4(){
 		printf("false \n");
 	}
 }
+void test5(){
+	printf("haha");
+}
 
